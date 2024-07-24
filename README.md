@@ -1,1 +1,1 @@
-VIDEO EXPLICATIVO DE UN MINUTO Y 40 SEGUNDOS: https://studio.youtube.com/video/2IFp7s5UIJE/edit
+VIDEO EXPLICATIVO DE UN MINUTO Y 40 SEGUNDOS: https://www.youtube.com/watch?v=2IFp7s5UIJE
