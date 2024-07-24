@@ -1,0 +1,15 @@
+C:\Users\playd\source\repos\App Clima Proyecto\App Clima Proyecto\App Clima Proyecto\bin\Debug\netstandard2.0\App Clima Proyecto.deps.json
+C:\Users\playd\source\repos\App Clima Proyecto\App Clima Proyecto\App Clima Proyecto\bin\Debug\netstandard2.0\App Clima Proyecto.dll
+C:\Users\playd\source\repos\App Clima Proyecto\App Clima Proyecto\App Clima Proyecto\bin\Debug\netstandard2.0\ref\App Clima Proyecto.dll
+C:\Users\playd\source\repos\App Clima Proyecto\App Clima Proyecto\App Clima Proyecto\bin\Debug\netstandard2.0\App Clima Proyecto.pdb
+C:\Users\playd\source\repos\App Clima Proyecto\App Clima Proyecto\App Clima Proyecto\obj\Debug\netstandard2.0\App Clima Proyecto.csproj.AssemblyReference.cache
+C:\Users\playd\source\repos\App Clima Proyecto\App Clima Proyecto\App Clima Proyecto\obj\Debug\netstandard2.0\App Clima Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\playd\source\repos\App Clima Proyecto\App Clima Proyecto\App Clima Proyecto\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\playd\source\repos\App Clima Proyecto\App Clima Proyecto\App Clima Proyecto\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\playd\source\repos\App Clima Proyecto\App Clima Proyecto\App Clima Proyecto\obj\Debug\netstandard2.0\App Clima Proyecto.AssemblyInfoInputs.cache
+C:\Users\playd\source\repos\App Clima Proyecto\App Clima Proyecto\App Clima Proyecto\obj\Debug\netstandard2.0\App Clima Proyecto.AssemblyInfo.cs
+C:\Users\playd\source\repos\App Clima Proyecto\App Clima Proyecto\App Clima Proyecto\obj\Debug\netstandard2.0\App Clima Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\playd\source\repos\App Clima Proyecto\App Clima Proyecto\App Clima Proyecto\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\playd\source\repos\App Clima Proyecto\App Clima Proyecto\App Clima Proyecto\obj\Debug\netstandard2.0\App Clima Proyecto.dll
+C:\Users\playd\source\repos\App Clima Proyecto\App Clima Proyecto\App Clima Proyecto\obj\Debug\netstandard2.0\refint\App Clima Proyecto.dll
+C:\Users\playd\source\repos\App Clima Proyecto\App Clima Proyecto\App Clima Proyecto\obj\Debug\netstandard2.0\App Clima Proyecto.pdb

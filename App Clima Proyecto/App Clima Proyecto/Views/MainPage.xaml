@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:converters="clr-namespace:App_Clima_Proyecto.Converters" xmlns:viewmodels="clr-namespace:App_Clima_Proyecto.ViewModels" x:DataType="viewmodels:MainPageViewModel"
+             x:Class="App_Clima_Proyecto.MainPage">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:TextToImageConverter x:Key="converter">
+                
+            </converters:TextToImageConverter>
+
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <Grid
+        BackgroundColor = "Aqua">
+        <StackLayout>
+            <SearchBar
+        SearchCommand="{Binding SearchCommand}"
+        x:Name="search"
+        SearchCommandParameter="{Binding Text, Source={x:Reference search}}"
+        BackgroundColor="White"
+        Placeholder="Búsqueda por Coordenadas" />
+
+            <Label Text="El clima para hoy es:" />
+            <Label Text="{Binding Data.timezone}" />
+            <Label Text="{Binding Data.hourly.summary}" />
+            <Label Text="{Binding Data.currently.temperature, StringFormat='Temperatura: {0} °F'}" />
+            <Label Text="{Binding Data.currently.apparentTemperature, StringFormat='Sensación térmica: {0} °F'}" />
+            <Label Text="{Binding Data.currently.windSpeed, StringFormat='Velocidad del viento: {0} m/s'}" />
+            <Label Text="{Binding Data.currently.humidity, StringFormat='Humedad: {0:P0}'}" />
+            <Label Text="{Binding Data.currently.pressure, StringFormat='Presión atmosférica: {0} hPa'}" />
+            <Label Text="{Binding Data.currently.visibility, StringFormat='Visibilidad: {0} km'}" />
+            <Label Text="{Binding Data.currently.cloudCover, StringFormat='Cobertura de nubes: {0:P0}'}" />
+            <Label Text="{Binding Data.currently.uvIndex, StringFormat='Índice UV: {0}'}" />
+
+            <Image Source="{Binding Data.hourly.icon, Converter={StaticResource converter}}" />
+        </StackLayout>
+
+    </Grid>
+
+
+
+</ContentPage>
